@@ -1,0 +1,53 @@
+/* ---- John McCutchan ---- */
+/* Notes:
+*  A place to practice JS stuff.
+*/
+/* ---- Structure ---- */
+html{}
+body{}
+.container{
+  width: 90%;
+  height: 660px; /* Remove when content is added */
+  margin: 0 auto;
+  position: relative;
+}
+header{
+  width: 100%;
+  height: 150px;
+  margin-top: -20px;
+}
+section{}
+footer{
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  bottom: 0;
+}
+h1{
+  text-align: center;
+  line-height: 150px;
+}
+/* ---- Structure END ---- */
+/* ---- Skin ---- */
+html{}
+body{
+  background-image:url(bg.png);
+  background-repeat:repeat;
+  background-color: rgba(241, 196, 15,1.0);
+}
+.container{
+  background-color: rgba(255, 255, 255,1.0);
+  border: 2px solid rgba(52, 73, 94,1.0);
+}
+header{
+  background-color: rgba(41, 128, 185,1.0);
+  color: white;
+}
+section{}
+.height{}
+footer{
+  background-color: rgba(41, 128, 185,1.0);
+  color: rgba(236, 240, 241,1.0);
+}
+h1{}
+/* ---- Skin END ---- */

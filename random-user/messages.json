@@ -1,0 +1,47 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "sohan",
+                "last": "chevalier"
+            },
+            "location": {
+                "street": "4880 rue de la charité",
+                "city": "besançon",
+                "state": "ardèche",
+                "postcode": 34699
+            },
+            "email": "sohan.chevalier@example.com",
+            "login": {
+                "username": "heavyelephant762",
+                "password": "point",
+                "salt": "ozJ2vMub",
+                "md5": "440076502faa21c5f79a29cfe331aa42",
+                "sha1": "956cb5c90ad9e678eeaf5c9e8752a43073933c08",
+                "sha256": "26468acb9210db1fd0546b183c0806e23893e463979832208e558c198a95fbb4"
+            },
+            "dob": "1984-10-26 09:42:56",
+            "registered": "2011-02-06 22:49:33",
+            "phone": "01-91-72-24-22",
+            "cell": "06-91-55-20-65",
+            "id": {
+                "name": "INSEE",
+                "value": "184966758754 32"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/25.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+            },
+            "nat": "FR"
+        }
+    ],
+    "info": {
+        "seed": "05a2dd320b75aaa5",
+        "results": 1,
+        "page": 1,
+        "version": "1.1"
+    }
+}
